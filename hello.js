@@ -24,3 +24,5 @@ function numbers3() {
 }
 console.log(numbers3());
 
+console.log('Last thing I am fully tired');
+
