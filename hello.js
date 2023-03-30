@@ -18,3 +18,4 @@ function numbers3() {
     return num1 * num2;
 }
 console.log(numbers3());
+// test commit
