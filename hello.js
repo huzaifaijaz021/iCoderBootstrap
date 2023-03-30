@@ -8,3 +8,8 @@ function numbers() {
 console.log(numbers())
 console.log('Huzaifa');
 console.log('I am a Software Engineer');
+
+function numbers4() {
+    return num1 / num2;
+}
+console.log(numbers4());
