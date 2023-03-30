@@ -9,7 +9,19 @@ console.log(numbers())
 console.log('Huzaifa');
 console.log('I am a Software Engineer');
 
+// <<<<<<< HEAD
 function numbers4() {
     return num1 / num2;
 }
 console.log(numbers4());
+// =======
+function numbers2() {
+    return num1 - num2;
+}
+console.log(numbers2());
+
+function numbers3() {
+    return num1 * num2;
+}
+console.log(numbers3());
+// >>>>>>> thirsty
