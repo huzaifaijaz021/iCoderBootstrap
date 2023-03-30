@@ -6,3 +6,4 @@ function numbers() {
 }
 
 console.log(numbers())
+console.log('Huzaifa');
