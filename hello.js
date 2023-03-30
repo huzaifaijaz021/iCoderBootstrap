@@ -13,3 +13,8 @@ function numbers2() {
     return num1 - num2;
 }
 console.log(numbers2());
+
+function numbers3() {
+    return num1 * num2;
+}
+console.log(numbers3());
